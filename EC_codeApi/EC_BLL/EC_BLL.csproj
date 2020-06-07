@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EC_DAL\EC_DAL.csproj" />
+    <ProjectReference Include="..\EC_Models\EC_Models.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_DAL\bin\Debug\netcoreapp3.1\EC_Models.dll
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_DAL\obj\Debug\netcoreapp3.1\EC_DAL.csprojAssemblyReference.cache
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_DAL\obj\Debug\netcoreapp3.1\EC_DAL.AssemblyInfoInputs.cache
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_DAL\obj\Debug\netcoreapp3.1\EC_DAL.AssemblyInfo.cs
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_DAL\obj\Debug\netcoreapp3.1\EC_DAL.csproj.CoreCompileInputs.cache
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_DAL\bin\Debug\netcoreapp3.1\EC_DAL.deps.json
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_DAL\bin\Debug\netcoreapp3.1\EC_DAL.dll
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_DAL\bin\Debug\netcoreapp3.1\EC_DAL.pdb
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_DAL\bin\Debug\netcoreapp3.1\EC_Models.pdb
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_DAL\obj\Debug\netcoreapp3.1\EC_DAL.csproj.CopyComplete
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_DAL\obj\Debug\netcoreapp3.1\EC_DAL.dll
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_DAL\obj\Debug\netcoreapp3.1\EC_DAL.pdb

@@ -1,0 +1,14 @@
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_BLL\bin\Debug\netcoreapp3.1\EC_BLL.deps.json
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_BLL\bin\Debug\netcoreapp3.1\EC_BLL.dll
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_BLL\bin\Debug\netcoreapp3.1\EC_BLL.pdb
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_BLL\bin\Debug\netcoreapp3.1\EC_DAL.dll
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_BLL\bin\Debug\netcoreapp3.1\EC_Models.dll
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_BLL\bin\Debug\netcoreapp3.1\EC_DAL.pdb
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_BLL\bin\Debug\netcoreapp3.1\EC_Models.pdb
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_BLL\obj\Debug\netcoreapp3.1\EC_BLL.csprojAssemblyReference.cache
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_BLL\obj\Debug\netcoreapp3.1\EC_BLL.csproj.CoreCompileInputs.cache
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_BLL\obj\Debug\netcoreapp3.1\EC_BLL.AssemblyInfoInputs.cache
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_BLL\obj\Debug\netcoreapp3.1\EC_BLL.AssemblyInfo.cs
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_BLL\obj\Debug\netcoreapp3.1\EC_BLL.csproj.CopyComplete
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_BLL\obj\Debug\netcoreapp3.1\EC_BLL.dll
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_BLL\obj\Debug\netcoreapp3.1\EC_BLL.pdb
