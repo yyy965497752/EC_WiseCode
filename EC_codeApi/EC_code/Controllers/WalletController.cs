@@ -34,9 +34,9 @@ namespace EC_code.Controllers
         /// 提现记录
         /// </summary>
         /// <returns></returns>
-        public List<TixianModel> ShowTixian()
-        {
-            return dal.ShowTixian();
-        }
+        //public List<TixianModel> ShowTixian()
+        //{
+        //    return dal.ShowTixian();
+        //}
     }
 }
