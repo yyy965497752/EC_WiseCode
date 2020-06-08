@@ -6,3 +6,4 @@ D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_Models\obj\Debug\netcoreapp3.1\
 D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_Models\obj\Debug\netcoreapp3.1\EC_Models.AssemblyInfo.cs
 D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_Models\obj\Debug\netcoreapp3.1\EC_Models.dll
 D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_Models\obj\Debug\netcoreapp3.1\EC_Models.pdb
+D:\A_Githup\thisOnline\two\EC_Wise\EC_codeApi\EC_Models\obj\Debug\netcoreapp3.1\EC_Models.csprojAssemblyReference.cache
